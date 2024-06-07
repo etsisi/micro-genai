@@ -1,4 +1,4 @@
-# Microcredencial en Procesamiento del Lenguaje Natural
+# Microcredencial en Inteligencia Artificial Generativa
 
 Repositorio para almacenar la web y demás recursos de la titulación
 «Formación Específica en Inteligencia Artificial Generativa» (ya se
