@@ -23,7 +23,7 @@ Luego es tan sencillo como:
 1. Clonar el repositorio
 
     ```bash
-    git clone https://github.com/etsisi/micro-nlp
+    git clone https://github.com/etsisi/micro-genai
     ```
 
 2. Entrar en el directorio del sitio
